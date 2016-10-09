@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="text_hangman">Hangman</string>
+    <string name="text_new_game">New Game</string>
+    <string name="text_guessed_letters">Guessed Letters:</string>
+    <string name="text_english_letters">abcdefghijklmnopqrstuvwxyz</string>
+    <string name="text_restart">Restart</string>
+</resources>
