@@ -30,7 +30,7 @@ public class GameActivity extends AppCompatActivity {
     public static final String textWon = "Glorious Victory!";
     public static final String textLost = "Humiliating Defeat!";
     public static final String errorMessage = "Please type in one letter!";
-    public static final String alreadyTriedLetterWarning = "Already tried that letterrrrrrr!";
+    public static final String alreadyTriedLetterWarning = "Already tried that letter!";
 
 
 
